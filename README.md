@@ -16,8 +16,7 @@ El dashboard está estructurado como un Resumen Ejecutivo que permite filtrar di
 *   **Rendimiento de Inventario:** Gráfico de barras horizontales que identifica las categorías de productos más rentables.
 
 ## Vista Previa e Interactividad
-Puedes explorar el tablero, interactuar con los datos y aplicar filtros en tiempo real a través del siguiente enlace:
-https://app.powerbi.com/links/QbzL6OxW6s?ctid=7240c382-77f3-42ea-9576-37097db362d0&pbi_source=linkShare
+Puedes explorar el tablero, interactuar con los datos y aplicar filtros en tiempo real descargando y abriendo el archivo 'Dashboard_Ventas_Supermercado.pbix' el cual es gráficamente así:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0cc225b7-2cf0-414c-8eca-18ab15049cd6" />
 
 
