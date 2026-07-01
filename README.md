@@ -18,6 +18,8 @@ El dashboard está estructurado como un Resumen Ejecutivo que permite filtrar di
 ## Vista Previa e Interactividad
 Puedes explorar el tablero, interactuar con los datos y aplicar filtros en tiempo real a través del siguiente enlace:
 https://app.powerbi.com/links/QbzL6OxW6s?ctid=7240c382-77f3-42ea-9576-37097db362d0&pbi_source=linkShare
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0cc225b7-2cf0-414c-8eca-18ab15049cd6" />
+
 
 ## Estructura de este Repositorio
 *   `Dashboard_Ventas_Supermercado.pbix`: Archivo fuente de Power BI con el modelado de datos y visualizaciones.
